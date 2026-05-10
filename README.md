@@ -2,7 +2,7 @@
 Comparing time needed to train different neural network architecture in cpu only using : Pytorch, Tensorflow, Jax, Mindspore, PaddlePaddle
 
 Used datasets :
-Shufflenet : Sign Language Digits dataset
+Shufflenet : oxford-iiit-pet
 LSTM : ECG5000
 NeuroBERT-Tiny: SMS Spam Collection
 
